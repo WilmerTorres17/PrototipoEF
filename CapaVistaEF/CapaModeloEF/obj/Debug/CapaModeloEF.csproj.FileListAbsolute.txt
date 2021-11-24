@@ -1,0 +1,6 @@
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaModeloEF\bin\Debug\CapaModeloEF.dll
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaModeloEF\bin\Debug\CapaModeloEF.pdb
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaModeloEF\obj\Debug\CapaModeloEF.csproj.AssemblyReference.cache
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaModeloEF\obj\Debug\CapaModeloEF.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaModeloEF\obj\Debug\CapaModeloEF.dll
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaModeloEF\obj\Debug\CapaModeloEF.pdb

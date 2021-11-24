@@ -1,0 +1,5 @@
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.pdb

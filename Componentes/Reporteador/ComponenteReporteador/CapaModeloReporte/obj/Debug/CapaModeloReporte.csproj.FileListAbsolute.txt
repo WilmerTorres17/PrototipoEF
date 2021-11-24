@@ -1,0 +1,6 @@
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.dll
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.pdb
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.AssemblyReference.cache
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.dll
+C:\Users\wilme\Desktop\PrototipoEF\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.pdb

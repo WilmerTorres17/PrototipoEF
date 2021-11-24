@@ -1,0 +1,9 @@
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\bin\Debug\CapaControladorInventario.dll
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\bin\Debug\CapaControladorInventario.pdb
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.AssemblyReference.cache
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CoreCompileInputs.cache
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\obj\Debug\CapaControladorInventario.dll
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\obj\Debug\CapaControladorInventario.pdb
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\bin\Debug\CapaModeloEF.dll
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\bin\Debug\CapaModeloEF.pdb
+C:\Users\wilme\Desktop\PrototipoEF\CapaVistaEF\CapaControladorInventario\obj\Debug\CapaControladorInventario.csproj.CopyComplete
